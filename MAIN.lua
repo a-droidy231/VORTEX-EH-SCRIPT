@@ -3,7 +3,7 @@
 -- Emergency Hamburg
 -- Menu: F2
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hm5650/ACR/refs/heads/main/Acr", true))()
+local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 end)
 
